@@ -1,0 +1,28 @@
+## Sisällysluottelo:
+
+- **1 osa:**
+  - [JS aloittaminen](01_osa/index.html)
+- **2 osa:**
+  - [muuttujat](02_osa/01_muuttuja/)
+  - [tietotyypit](02_osa/02_data_types/)
+  - [numerot](02_osa/03_numerot/)
+  - [operaattorit](02_osa/04_operaattorit/)
+  - [funktioiden perusteet](02_osa/05_funktiot/)
+  - [merkkijonot](02_osa/06_merkkijonot/)
+- **3 osa:**
+  - [ehtolauseet](03_osa/ehtolauseet/)
+  - [silmukat](03_osa/silmukat/)
+- **4 osa:**
+  - [dom 1](04_osa/dom1/)
+  - [dom 2](04_osa/dom2/)
+  - [dom 3](04_osa/dom3/)
+  - [demo 1](04_osa/demo1/)
+  - [demo 2](04_osa/demo2/)
+  - [pannukakkutilaus osa 1](04_osa/pancake_tilaussivu/)
+- **5 osa:**
+  - [Taulukot 1](05_osa/script.js)
+  - [Taulukot 2](05_osa/script2.js)
+- **6 osa:**
+  - [pannukakkutilaussivu 2](06_osa/pannukakkutilaussivu2/)
+  - [oliot 1](06_osa/oliot_01.js)
+  - [oliot 2](06_osa/oliot_02.js)
